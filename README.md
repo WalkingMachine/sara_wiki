@@ -1,2 +1,1 @@
-# sara_wiki
-General wiki on how to use S.A.R.A.
+# [S.A.R.A. Wiki](https://github.com/WalkingMachine/sara_wiki/wiki)
